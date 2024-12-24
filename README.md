@@ -8,11 +8,11 @@
 5.) DISTRIBUTION OF ACCIDENTS :-
 6.) DISTRIBUTION OF DAYWISE ACCIDENTS :-
 
-...................................................................................................................
-![image](https://github.com/user-attachments/assets/a5ceb919-ee6a-450e-9966-f5a0e842ac51)
+
+
 
 ![image](https://github.com/user-attachments/assets/1d19e79c-87b2-4001-ba01-018f3908bb6e)
-
+![image](https://github.com/user-attachments/assets/a5ceb919-ee6a-450e-9966-f5a0e842ac51)
 ![image](https://github.com/user-attachments/assets/8a1d7e58-fcce-4106-9ac1-97614e66650d)
 
 ![image](https://github.com/user-attachments/assets/24322a43-a3cc-438e-a3e0-b4cc9f14dbd3)
