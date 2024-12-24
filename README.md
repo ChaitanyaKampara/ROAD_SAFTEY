@@ -1,7 +1,7 @@
 
 
 
-1.) ACCIDENT SEVERITY
+1.) ACCIDENT SEVERITY :- /n
 ![image](https://github.com/user-attachments/assets/a5ceb919-ee6a-450e-9966-f5a0e842ac51)
 2.)  IN MOST ACCIDENTS THE VEHICALS NO OF CASUALITIES EFFECTED ARE ONLY 1 FOLLOWED BY 2 WHICH ARE VERY LESS COMPARED TO 1 :-
 ![image](https://github.com/user-attachments/assets/1d19e79c-87b2-4001-ba01-018f3908bb6e)
