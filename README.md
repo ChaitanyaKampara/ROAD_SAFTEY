@@ -7,6 +7,8 @@
 4.) ACCIDENTS BASED ON DAILY HOURS(INTERVELS) :-
 5.) DISTRIBUTION OF ACCIDENTS :-
 6.) DISTRIBUTION OF DAYWISE ACCIDENTS :-
+
+...................................................................................................................
 ![image](https://github.com/user-attachments/assets/a5ceb919-ee6a-450e-9966-f5a0e842ac51)
 
 ![image](https://github.com/user-attachments/assets/1d19e79c-87b2-4001-ba01-018f3908bb6e)
